@@ -22,10 +22,7 @@
 
 <br/><br/>
 
-<!-- GitHub Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=goodispotato&locale=ko)](https://git.io/streak-stats)
 
-<br/>
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=200&section=footer"/>
