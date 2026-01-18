@@ -48,6 +48,11 @@ https://github.com/ECC-2024-winter
 ### 이화여자대학교 중앙 컴퓨터 동아리 ECC
 **활동 기간**: 2024.09 ~ 2025.07
 
+<br/>
+
+### California State University, Fullerton 교환학생
+2025.08 ~ 2025.12
+
 <br/><br/>
 
 <!-- Languages -->
