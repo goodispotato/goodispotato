@@ -49,6 +49,10 @@ https://github.com/ECC-2024-winter
 2024.09 ~ 2025.07
 
 
+### IT 동아리 젝트
+2026.02 ~ 2026.07
+
+
 <br/><br/>
 
 <!-- Languages -->
