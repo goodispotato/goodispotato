@@ -67,6 +67,10 @@ UUID 기반 초대 링크로 팀 참여<br/>
 페이지네이션 구현<br/>
 팀원 추가/삭제 및 팀장의 팀 확정 구현<br/> 알림 기능 구현<br/> 
 
+<br/>
+
+**Repository** &nbsp; [JECT5-4th-Server](https://github.com/JECT-Study/JECT5-4th-Server)
+
 <br/><br/>
 
 ## 🧩 Activities
